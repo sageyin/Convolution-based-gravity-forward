@@ -8,4 +8,7 @@ GraconvelP.m : Construct the circular kernel matrix and calculate the gravity fi
 2、In space domain Main function: Cal_ModelGravityinFourie.m Calling sub-functions:
 Cal_tranGraf.m : Analytic formula method for calculating the gravity of a cube
 
-Note: See code comments for detailed parameters. *** Related results are being submitted to computer & Geoscience ***
+Note: See code comments for detailed parameters.
+
+The article link: https://authors.elsevier.com/c/1gXR8MMTPor16
+Xianzhe Yin, Changli Yao, Yuanman Zheng, Wenqiang Xu, Guangxi Chen, Xiaoyu Yuan, 2023. A fast 3D gravity forward algorithm based on circular convolution. Computers & Geosciences 172, 105309. https://doi.org/10.1016/j.cageo.2023.105309
